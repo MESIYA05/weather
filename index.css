@@ -61,6 +61,11 @@ body {
     padding-left: 18px;
 }
 
+.search img{
+    color: #fff;
+    height: 10px;
+}
+
 .weather-icon {
     width: 170px;
     margin-top: 30px;
