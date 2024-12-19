@@ -64,7 +64,8 @@ body {
 .search img{
     color: #fff;
     height: 30px;
-    padding: 10px 10px;
+    width: 20px;
+    padding: 20px 20px;
 }
 
 .weather-icon {
