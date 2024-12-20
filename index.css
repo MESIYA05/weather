@@ -158,12 +158,12 @@ body {
     body {
         background: url("./images/spa.jpg");
         background-repeat: no-repeat;
-        height: 800px;
+        height: 90vh;
         background-size: cover;
         background-position: fill;
     }
     .card {
-        margin-top: 60px;
+        margin-top: 80px;
         padding: 20px;
         width: 95%;
     }
