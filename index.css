@@ -152,13 +152,20 @@ body {
     .weather-icon {
         width: 140px;
     }
+    body {
+        background: url("./images/spa.jpg");
+        background-repeat: no-repeat;
+        height: 85vh;
+        background-size: cover;
+        background-position: fill;
+    }
 }
 
 @media (max-width: 480px) {
     body {
         background: url("./images/spa.jpg");
         background-repeat: no-repeat;
-        height: 83vh;
+        height: 85vh;
         background-size: cover;
         background-position: fill;
     }
